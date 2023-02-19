@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Programación Vacacional\GitHub\Mapa-Colision\Mapa-Colision\main.cpp(239,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Programación Vacacional\GitHub\Mapa-Colision\Mapa-Colision\main.cpp(281,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Programación Vacacional\GitHub\Mapa-Colision\Mapa-Colision\main.cpp(293,21): warning C4018: '<': no coinciden signed/unsigned
+  Mapa-Colision.vcxproj -> C:\Programación Vacacional\GitHub\Mapa-Colision\Debug\Mapa-Colision.exe
