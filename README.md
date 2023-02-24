@@ -264,8 +264,6 @@ glShadeModel(GL_SMOOTH);
 }
 ```
 ------------
-> Nota: El código de este proyecto no habra mucho comentario como en los anteriores, puesto que tengo pensado explicarlos aun mas profundo en proyectos futuros.
-Ademas El proyecto se nombre "Mapa-Colision" ,en el siguiente repositorio que se desarrolle se explicará la colisión de objetos en base a la libreria Vector :).
 
 ### CAPTURA DEL PROYECTO
 
